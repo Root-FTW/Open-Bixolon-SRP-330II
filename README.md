@@ -12,7 +12,7 @@ Este proyecto contiene un script en Python para abrir un cajón de dinero conect
 1. Clona el repositorio o descarga el código fuente.
 
 ```
-git clone https://github.com/tu_nombre_de_usuario/abrir_cajon.git
+git clone https://github.com/Root-FTW/Open-Bixolon-SRP-330II.git
 ```
 
 2. Instala la biblioteca 'pyserial' si aún no la tienes instalada:
