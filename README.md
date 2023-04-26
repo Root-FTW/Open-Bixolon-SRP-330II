@@ -57,7 +57,7 @@ Este comando indica lo siguiente:
 
 ## Soporte
 
-Si encuentras algún problema o tienes alguna pregunta, por favor crea un [nuevo issue](https://github.com/root-ftw/abrir_cajon/issues) en el repositorio.
+Si encuentras algún problema o tienes alguna pregunta, por favor crea un [nuevo issue](https://github.com/Root-FTW/Open-Bixolon-SRP-330II/issues) en el repositorio.
 
 ## Licencia
 
