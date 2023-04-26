@@ -57,11 +57,9 @@ Este comando indica lo siguiente:
 
 ## Soporte
 
-Si encuentras algún problema o tienes alguna pregunta, por favor crea un [nuevo issue](https://github.com/tu_nombre_de_usuario/abrir_cajon/issues) en el repositorio.
+Si encuentras algún problema o tienes alguna pregunta, por favor crea un [nuevo issue](https://github.com/root-ftw/abrir_cajon/issues) en el repositorio.
 
 ## Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
 ```
-
-No olvides reemplazar `tu_nombre_de_usuario` en la URL del repositorio con tu nombre de usuario real de GitHub. También puedes modificar este archivo README para adaptarlo a tus necesidades y preferencias.
