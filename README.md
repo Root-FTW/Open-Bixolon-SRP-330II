@@ -1,6 +1,3 @@
-Claro, aquí tienes un ejemplo de un archivo README detallado en formato Markdown para tu repositorio de GitHub:
-
-```
 # Abrir Cajón de Dinero con Impresora Bixolon SRP-330II
 
 Este proyecto contiene un script en Python para abrir un cajón de dinero conectado a una impresora térmica Bixolon SRP-330II a través de un cable RJ11.
